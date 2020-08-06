@@ -55,7 +55,7 @@ for user_id in id_list:
 
 
 
-	# 程序考试运行
+	# 程序开始运行
 	load_page.start(
 		PAGE_URL, 
 		SCROLL_DOWN, 
