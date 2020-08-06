@@ -1,0 +1,8 @@
+环境：python3、chrome浏览器
+
+1、安装 Helium: pip install helium
+2、下载与chrome浏览器对应版本的chromedriver，放到python环境path下：http://chromedriver.storage.googleapis.com/index.html
+3、在load_page.py中设置自己登陆facebook的邮箱和密码：YOUR_EMAIL；YOUR_PASSWORD
+4、开始爬虫: python crawler.py
+
+注：如果不想显示chromedriver浏览器，将load_page.py中的start_chrome(）方法中的headless置为True
