@@ -1,8 +1,6 @@
 # facebook-page-spider (crawler)
 Facebook 模拟账号登陆根据目标用户的 facebook id 爬取页面数据，基于 Python + Helium （比Selenium更轻量），非 facebook develop api 方法。 另注：有被封账号的风险，仅供参考和学习!
 
-> 该项目代码本人博客总结:  
-
 ## Features
 1. 根据facebook用户id进行多用户的数据爬取
 2. 可设置代理（国内翻墙）
